@@ -111,9 +111,10 @@ data/
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 ### 2. Install Dependencies
-
+```
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+```
 
 3. Run the Analysis
 python scripts/final_analysis.py
